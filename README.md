@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aburriyo
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m currently Studying in INACAP 
+- 🌱 I’m Was Studying in INACAP, Actually doing my practice in SPOT
 - 💞️ I’m looking to collaborate on Deep Learning projects
 - 📫 How to reach me : aburriyo@gmail.com
 
