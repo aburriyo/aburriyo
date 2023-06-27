@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @aburriyo
 - 👀 I’m interested in Deep Learning
-- 🌱 I’m Was Studying in INACAP, Actually doing my practice in SPOT
-- 💞️ I’m looking to collaborate on Deep Learning projects
+- 🌱 I’m working in Deliryum AI working with Computer Vision
 - 📫 How to reach me : aburriyo@gmail.com
 
 # 💫 About Me:
