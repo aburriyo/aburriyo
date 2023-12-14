@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @aburriyo
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m working in Deliryum AI working with Computer Vision
+- 👀 I’m interested in Deep Learning and Machine Learning 
+- 🌱 I’m working in INACAP as researcher and with ViewMineral 
 - 📫 How to reach me : aburriyo@gmail.com
 
 # 💫 About Me:
-🔭 I’m currently Studying and learning <br>🌱 I’m currently learning Python, CV2 and Artificial Vision<br>💬 Ask me about aburriyo@gmail.com<br>⚡ I'm volunteer of Fundación Mustakis in Robotic Area
+🔭 I’m currently Studying and learning <br>🌱 I’m currently learning Python, CV2 and Computer Vision<br>💬 Email me in aburriyo@gmail.com<br>⚡ I'm also a volunteer to Fundación Mustakis in Robotic Area, I teach kids to learn to program robots 👨🏻‍🏫
 
 
 ## 🌐 Socials:
