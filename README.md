@@ -69,23 +69,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## ✍️ Intereses
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aburriyo&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aburriyo&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-
-</div>
-
----
-
-## ✍️ Últimas ideas / intereses
-
-- 🧠 IA aplicada a PYMEs chilenas — agentes que reemplazan procesos manuales
-- 📷 Visión computacional para educación (OMR, escáner de pruebas)
+- 🧠 IA aplicada a PYMEs — agentes que reemplazan procesos manuales
+- 📷 Visión computacional para educación
 - 🔌 Automatización de flujos con n8n
-- 🤖 Robótica educativa (Arduino, sensores, proyectos para estudiantes)
+- 🤖 Robótica educativa (Arduino, sensores)
 - 📡 Sistemas embebidos y hardware
 
 ---
