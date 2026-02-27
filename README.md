@@ -76,6 +76,7 @@
 - 🔌 Automatización de flujos con n8n
 - 🤖 Robótica educativa (Arduino, sensores)
 - 📡 Sistemas embebidos y hardware
+- 📋 Aplicar **metodologías ágiles (Kanban) en el aula** — explorando cómo organizar proyectos educativos con tableros y flujos de trabajo reales
 
 ---
 
