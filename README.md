@@ -60,14 +60,12 @@
 
 ---
 
-## 🚀 Proyectos en los que trabajo ahora
+## 🚀 Actualmente construyendo
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| **SIPUD** | ERP para distribuidoras chilenas — inventario, ventas, logística, Shopify sync | Flask · MongoDB · Docker |
-| **OMR v3** | Escáner de pruebas ópticas con marcadores ArUco y webcam | Python · OpenCV · Flask |
-| **Bot WhatsApp PD** | Bot de ventas integrado con SIPUD — pedidos, catálogo, estado | BuilderBot · Baileys · TS |
-| **AI Agents** | Sistema de agentes para gestión empresarial (control de gestión, proyectos) | n8n · Claude · Python |
+- 🏢 Un **ERP** para PYMEs chilenas
+- 📷 Herramientas de **visión computacional** para educación
+- 🤖 **Bots y agentes de IA** para automatizar procesos empresariales
+- ⚡ Integraciones y flujos de automatización con **n8n**
 
 ---
 
